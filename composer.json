@@ -2,7 +2,7 @@
 	"name": "venne/bootstrap3-module",
 	"description": "jQuery-UI 1.10.x module",
 	"keywords": ["cms", "nette", "venne", "module"],
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
 	"authors": [
 		{
